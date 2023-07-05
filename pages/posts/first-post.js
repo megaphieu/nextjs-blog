@@ -38,6 +38,18 @@ export default function FirstPost() {
       </div>
 
       <div>
+        <iframe
+          src="https://scratch.mit.edu/projects/872077235/embed"
+          allowtransparency="true"
+          width="485"
+          height="402"
+          frameborder="0"
+          scrolling="no"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <div>
         <p>Phản ứng của tôi kiểu:</p>
         <Image
           src="/images/truedumage.PNG"
