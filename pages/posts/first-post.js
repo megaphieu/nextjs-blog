@@ -20,12 +20,14 @@ export default function FirstPost() {
 
       <h1>First Post</h1>
       <p>
-        My first scratch app. You can also find me on{" "}
+        My scratch apps. You can also find me on{" "}
         <Link href={"https://scratch.mit.edu/users/megaphieu/"}>
           this site!
         </Link>{" "}
       </p>
+
       <div>
+        <p>- Nujabes walking bear:</p>
         <iframe
           src="https://scratch.mit.edu/projects/870461663/embed"
           allowtransparency="true"
@@ -38,8 +40,22 @@ export default function FirstPost() {
       </div>
 
       <div>
+        <p>- My flappy bat:</p>
         <iframe
           src="https://scratch.mit.edu/projects/872077235/embed"
+          allowtransparency="true"
+          width="485"
+          height="402"
+          frameborder="0"
+          scrolling="no"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <div>
+        <p>- Game animation test:</p>
+        <iframe
+          src="https://scratch.mit.edu/projects/871218881/embed"
           allowtransparency="true"
           width="485"
           height="402"
